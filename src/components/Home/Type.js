@@ -8,7 +8,7 @@ function Type() {
         strings: [
           "Etudiant",
           "Développeur Logiciel",
-          "Développeur de Site Internet",
+          "Création de Site Internet",
         ],
         autoStart: true,
         loop: true,
