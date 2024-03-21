@@ -8,6 +8,8 @@ import spychoquizz from "../../Assets/Spychoquizz.png";
 import metierInfo from "../../Assets/MetierInfo.png";
 import formMetier from "../../Assets/FormMetier.png";
 import postgres from "../../Assets/postgres-logo.png"
+import symphony from "../../Assets/symfony.png"
+import react from "../../Assets/react-logo.jpg"
 
 function Projects() {
   return (
@@ -60,6 +62,28 @@ function Projects() {
               isBlog={false}
               title="Gestion de data Api"
               description="L'objectif ici était d'automatiser le trier des donnés JSON pour les exploités facilement"
+              // ghLink=""
+              // demoLink=""
+            />
+          </Col>
+
+          <Col md={6} className="project-card">
+            <StageCards
+              imgPath={symphony}
+              isBlog={false}
+              title="Premier pas Symphony"
+              description=""
+              // ghLink=""
+              // demoLink=""
+            />
+          </Col>
+
+          <Col md={6} className="project-card">
+            <StageCards
+              imgPath={react}
+              isBlog={false}
+              title="Premier pas react"
+              description=""
               // ghLink=""
               // demoLink=""
             />
