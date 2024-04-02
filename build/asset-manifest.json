@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ccf5f1e7.css",
+    "main.js": "/Portfolio/static/js/main.aaa7e1f8.js",
+    "static/js/770.b477def6.chunk.js": "/Portfolio/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/react-logo.jpg": "/Portfolio/static/media/react-logo.4604254bca9dec726635.jpg",
+    "static/media/Spychoquizz.png": "/Portfolio/static/media/Spychoquizz.6342153cb7923e62e57d.png",
+    "static/media/MetierInfo.png": "/Portfolio/static/media/MetierInfo.dde05eabdc70a5998a8c.png",
+    "static/media/postgres-logo.png": "/Portfolio/static/media/postgres-logo.9ee65682ead971de3f0b.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/symfony.png": "/Portfolio/static/media/symfony.8d4b7439be141ff7acba.png",
+    "static/media/Sansnom1.pdf": "/Portfolio/static/media/Sansnom1.b80b5dd54ced8f5d8680.pdf",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.ccf5f1e7.css.map": "/Portfolio/static/css/main.ccf5f1e7.css.map",
+    "main.aaa7e1f8.js.map": "/Portfolio/static/js/main.aaa7e1f8.js.map",
+    "770.b477def6.chunk.js.map": "/Portfolio/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccf5f1e7.css",
+    "static/js/main.aaa7e1f8.js"
+  ]
+}
