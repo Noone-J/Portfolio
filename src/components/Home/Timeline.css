@@ -1,0 +1,39 @@
+/* Timeline.css */
+.timeline {
+  position: relative;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.timeline-item {
+  position: relative;
+  padding: 20px 0;
+  border-left: 2px solid #2196F3;
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -9px;
+  background-color: #2196F3;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  top: 20px;
+}
+
+.timeline-content {
+  margin-left: 30px;
+}
+
+.timeline-content h3 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.timeline-content h4 {
+  margin: 5px 0;
+  font-size: 1em;
+  color: #666;
+}

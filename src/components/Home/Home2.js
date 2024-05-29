@@ -8,6 +8,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import Home3 from "./Home3";
 
 function Home2() {
   return (
@@ -28,7 +29,7 @@ function Home2() {
               (Sûrté et Sécurité des Infrastructure, de l'Habitat et du Tertiare)</span>
             </p>
             <p className="home-about-body">
-              Actuellement en  2ème année BTS options SLAM
+              Actuellement en  2ème année BTS SIO options SLAM
               <span className="purple">
               <br/>
               (solutions logicielles et applications métiers)</span>
@@ -41,6 +42,7 @@ function Home2() {
             </Tilt>
           </Col>
         </Row>
+        <Home3 />
         <Row>
           <Col md={12} className="home-about-social">
             <h1>Suivez moi sur</h1>
